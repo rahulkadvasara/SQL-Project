@@ -1,7 +1,7 @@
 # Customer Goods
 
 # Technologies and tools used in this project :
-sql,mysql,vs code
+MySQL, PowerBI, Canva, Adobe Express, OBS, and Droidcam.
 
 # About This Project
 This system is a robust, SQL-driven database designed to manage and optimize the operations of a consumer
