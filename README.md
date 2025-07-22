@@ -7,11 +7,6 @@ MySQL, PowerBI, Canva, Adobe Express, OBS, and Droidcam.
 This system is a robust, SQL-driven database designed to manage and optimize the operations of a consumer
 goods business. It facilitates the storage, retrieval, and analysis of data related to inventory, sales, suppliers,and customer interactions
 
-# Objectives :
-AtliqHardware (fictitious corporation) is one ofthe major computer hardware manufacturers in India, with a strong presence in other nations. Nevertheless,the management
-did note thatthey do not have sufficientinsights to make prompt, wise, and data-informed judgments. Plan to expand the data analytics team by adding junior data
-analysts. To assess candidates, Data analytics director,TonySharma plans to conduct aSQL challenge to evaluate both tech and soft skills. The company seeks insights for10 ad hoc requests.
-
 # Insights :
 1. Data-Driven Decision Making
 2. Enhanced Customer Experience
